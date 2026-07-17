@@ -18,7 +18,7 @@ jobs:
       - name: Generate the snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{adityasingh2006-afk}}
+          github_user_name: adityasingh2006-afk
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
